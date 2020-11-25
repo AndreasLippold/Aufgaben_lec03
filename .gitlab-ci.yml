@@ -1,0 +1,6 @@
+stages:
+  - compile
+  - integration-test
+  - analyze
+  - package
+  - release
